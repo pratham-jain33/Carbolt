@@ -1,0 +1,195 @@
+1. Afghanistan: 420 gCO2/kWh
+2. Albania: 215 gCO2/kWh
+3. Algeria: 580 gCO2/kWh
+4. Andorra: 50 gCO2/kWh
+5. Angola: 650 gCO2/kWh
+6. Antigua and Barbuda: 480 gCO2/kWh
+7. Argentina: 380 gCO2/kWh
+8. Armenia: 360 gCO2/kWh
+9. Australia: 570 gCO2/kWh
+10. Austria: 110 gCO2/kWh
+11. Azerbaijan: 410 gCO2/kWh
+12. Bahamas: 510 gCO2/kWh
+13. Bahrain: 620 gCO2/kWh
+14. Bangladesh: 700 gCO2/kWh
+15. Barbados: 550 gCO2/kWh
+16. Belarus: 390 gCO2/kWh
+17. Belgium: 150 gCO2/kWh
+18. Belize: 490 gCO2/kWh
+19. Benin: 530 gCO2/kWh
+20. Bhutan: 20 gCO2/kWh
+21. Bolivia: 340 gCO2/kWh
+22. Bosnia and Herzegovina: 450 gCO2/kWh
+23. Botswana: 800 gCO2/kWh
+24. Brazil: 103 gCO2/kWh
+25. Brunei: 610 gCO2/kWh
+26. Bulgaria: 420 gCO2/kWh
+27. Burkina Faso: 560 gCO2/kWh
+28. Burundi: 70 gCO2/kWh
+29. Cabo Verde: 520 gCO2/kWh
+30. Cambodia: 680 gCO2/kWh
+31. Cameroon: 120 gCO2/kWh
+32. Canada: 140 gCO2/kWh
+33. Central African Republic: 40 gCO2/kWh
+34. Chad: 600 gCO2/kWh
+35. Chile: 370 gCO2/kWh
+36. China: 560 gCO2/kWh
+37. Colombia: 200 gCO2/kWh
+38. Comoros: 640 gCO2/kWh
+39. Congo: 30 gCO2/kWh
+40. Costa Rica: 50 gCO2/kWh
+41. Côte d'Ivoire: 550 gCO2/kWh
+42. Croatia: 230 gCO2/kWh
+43. Cuba: 590 gCO2/kWh
+44. Cyprus: 480 gCO2/kWh
+45. Czechia: 450 gCO2/kWh
+46. Denmark: 180 gCO2/kWh
+47. Djibouti: 540 gCO2/kWh
+48. Dominica: 90 gCO2/kWh
+49. Dominican Republic: 460 gCO2/kWh
+50. Ecuador: 260 gCO2/kWh
+51. Egypt: 500 gCO2/kWh
+52. El Salvador: 430 gCO2/kWh
+53. Equatorial Guinea: 660 gCO2/kWh
+54. Eritrea: 580 gCO2/kWh
+55. Estonia: 700 gCO2/kWh
+56. Eswatini: 720 gCO2/kWh
+57. Ethiopia: 80 gCO2/kWh
+58. Fiji: 470 gCO2/kWh
+59. Finland: 82 gCO2/kWh
+60. France: 143 gCO2/kWh
+61. Gabon: 40 gCO2/kWh
+62. Gambia: 570 gCO2/kWh
+63. Georgia: 310 gCO2/kWh
+64. Germany: 371 gCO2/kWh
+65. Ghana: 300 gCO2/kWh
+66. Greece: 360 gCO2/kWh
+67. Grenada: 530 gCO2/kWh
+68. Guatemala: 410 gCO2/kWh
+69. Guinea: 510 gCO2/kWh
+70. Guinea-Bissau: 590 gCO2/kWh
+71. Guyana: 630 gCO2/kWh
+72. Haiti: 490 gCO2/kWh
+73. Honduras: 390 gCO2/kWh
+74. Hungary: 220 gCO2/kWh
+75. Iceland: 10 gCO2/kWh
+76. India: 708 gCO2/kWh
+77. Indonesia: 690 gCO2/kWh
+78. Iran: 610 gCO2/kWh
+79. Iraq: 720 gCO2/kWh
+80. Ireland: 280 gCO2/kWh
+81. Israel: 430 gCO2/kWh
+82. Italy: 200 gCO2/kWh
+83. Jamaica: 650 gCO2/kWh
+84. Japan: 482 gCO2/kWh
+85. Jordan: 580 gCO2/kWh
+86. Kazakhstan: 550 gCO2/kWh
+87. Kenya: 160 gCO2/kWh
+88. Kiribati: 500 gCO2/kWh
+89. Korea, North: 740 gCO2/kWh
+90. Korea, South: 450 gCO2/kWh
+91. Kuwait: 670 gCO2/kWh
+92. Kyrgyzstan: 380 gCO2/kWh
+93. Laos: 330 gCO2/kWh
+94. Latvia: 90 gCO2/kWh
+95. Lebanon: 640 gCO2/kWh
+96. Lesotho: 610 gCO2/kWh
+97. Liberia: 570 gCO2/kWh
+98. Libya: 680 gCO2/kWh
+99. Liechtenstein: 60 gCO2/kWh
+100. Lithuania: 70 gCO2/kWh
+101. Luxembourg: 90 gCO2/kWh
+102. Madagascar: 420 gCO2/kWh
+103. Malawi: 190 gCO2/kWh
+104. Malaysia: 580 gCO2/kWh
+105. Maldives: 660 gCO2/kWh
+106. Mali: 480 gCO2/kWh
+107. Malta: 340 gCO2/kWh
+108. Marshall Islands: 760 gCO2/kWh
+109. Mauritania: 770 gCO2/kWh
+110. Mauritius: 600 gCO2/kWh
+111. Mexico: 420 gCO2/kWh
+112. Micronesia: 740 gCO2/kWh
+113. Moldova: 260 gCO2/kWh
+114. Monaco: 40 gCO2/kWh
+115. Mongolia: 810 gCO2/kWh
+116. Montenegro: 510 gCO2/kWh
+117. Morocco: 490 gCO2/kWh
+118. Mozambique: 250 gCO2/kWh
+119. Myanmar: 670 gCO2/kWh
+120. Namibia: 530 gCO2/kWh
+121. Nauru: 800 gCO2/kWh
+122. Nepal: 110 gCO2/kWh
+123. Netherlands: 260 gCO2/kWh
+124. New Zealand: 170 gCO2/kWh
+125. Nicaragua: 370 gCO2/kWh
+126. Niger: 630 gCO2/kWh
+127. Nigeria: 160 gCO2/kWh
+128. North Macedonia: 400 gCO2/kWh
+129. Norway: 20 gCO2/kWh
+130. Oman: 650 gCO2/kWh
+131. Pakistan: 530 gCO2/kWh
+132. Palau: 780 gCO2/kWh
+133. Palestine: 600 gCO2/kWh
+134. Panama: 440 gCO2/kWh
+135. Papua New Guinea: 560 gCO2/kWh
+136. Paraguay: 60 gCO2/kWh
+137. Peru: 310 gCO2/kWh
+138. Philippines: 520 gCO2/kWh
+139. Poland: 662 gCO2/kWh
+140. Portugal: 190 gCO2/kWh
+141. Qatar: 690 gCO2/kWh
+142. Romania: 280 gCO2/kWh
+143. Russia: 449 gCO2/kWh
+144. Rwanda: 100 gCO2/kWh
+145. Saint Kitts and Nevis: 540 gCO2/kWh
+146. Saint Lucia: 520 gCO2/kWh
+147. Saint Vincent and the Grenadines: 510 gCO2/kWh
+148. Samoa: 700 gCO2/kWh
+149. San Marino: 150 gCO2/kWh
+150. Sao Tome and Principe: 580 gCO2/kWh
+151. Saudi Arabia: 740 gCO2/kWh
+152. Senegal: 540 gCO2/kWh
+153. Serbia: 420 gCO2/kWh
+154. Seychelles: 620 gCO2/kWh
+155. Sierra Leone: 590 gCO2/kWh
+156. Singapore: 410 gCO2/kWh
+157. Slovakia: 160 gCO2/kWh
+158. Slovenia: 220 gCO2/kWh
+159. Solomon Islands: 750 gCO2/kWh
+160. Somalia: 650 gCO2/kWh
+161. South Africa: 850 gCO2/kWh
+162. South Sudan: 120 gCO2/kWh
+163. Spain: 190 gCO2/kWh
+164. Sri Lanka: 580 gCO2/kWh
+165. Sudan: 630 gCO2/kWh
+166. Suriname: 340 gCO2/kWh
+167. Sweden: 20 gCO2/kWh
+168. Switzerland: 40 gCO2/kWh
+169. Syria: 670 gCO2/kWh
+170. Taiwan: 500 gCO2/kWh
+171. Tajikistan: 40 gCO2/kWh
+172. Tanzania: 240 gCO2/kWh
+173. Thailand: 530 gCO2/kWh
+174. Timor-Leste: 690 gCO2/kWh
+175. Togo: 560 gCO2/kWh
+176. Tonga: 730 gCO2/kWh
+177. Trinidad and Tobago: 550 gCO2/kWh
+178. Tunisia: 580 gCO2/kWh
+179. Turkey: 480 gCO2/kWh
+180. Turkmenistan: 760 gCO2/kWh
+181. Tuvalu: 790 gCO2/kWh
+182. Uganda: 100 gCO2/kWh
+183. Ukraine: 320 gCO2/kWh
+184. United Arab Emirates: 610 gCO2/kWh
+185. United Kingdom: 210 gCO2/kWh
+186. United States: 384 gCO2/kWh
+187. Uruguay: 30 gCO2/kWh
+188. Uzbekistan: 500 gCO2/kWh
+189. Vanuatu: 710 gCO2/kWh
+190. Vatican City: 200 gCO2/kWh
+191. Venezuela: 400 gCO2/kWh
+192. Vietnam: 690 gCO2/kWh
+193. Yemen: 660 gCO2/kWh
+194. Zambia: 80 gCO2/kWh
+195. Zimbabwe: 760 gCO2/kWh
